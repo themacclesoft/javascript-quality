@@ -24,7 +24,7 @@ copy: {
 
 3) Configure your project to use the "Quality JavaScript Way" in Sonar:
 
-```
+```XML
 <properties>
 	<sonar.profile>Quality JavaScript Way</sonar.profile>
 </properties>
