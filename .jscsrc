@@ -1,0 +1,12 @@
+{
+	// jscs Default Configuration File (as on jscs website)
+	// See http://jscs.info/ for more details
+	"preset": "crockford",
+	"validateIndentation": "\t",
+	"disallowDanglingUnderscores": false,
+	"disallowSpacesInsideArrayBrackets": false,
+	"disallowSpacesInFunctionDeclaration": false,
+	"requireVarDeclFirst": false,
+	"requireMultipleVarDecl": false,
+	"maxErrors": -1
+}
