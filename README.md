@@ -3,6 +3,7 @@
 ## What is this?
 
 * Provides a .jshintrc file to use in your frontend project.
+* Provides a .jscsrc file to use in your frontend project.
 * Provides a Sonar Quality Profile XML file for use in your frontend project's Sonar jobs.
 
 ## How do I use it?
