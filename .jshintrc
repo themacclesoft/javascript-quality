@@ -86,8 +86,6 @@
 	"globals": {
 		"require": true,
 		"requirejs": true,
-		"define": true,
-		"_": true
+		"define": true
 	}
-
 }
